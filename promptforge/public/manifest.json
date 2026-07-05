@@ -1,0 +1,16 @@
+{
+  "name": "PromptForge — AI Prompt Generator",
+  "short_name": "PromptForge",
+  "description": "Generate perfect AI prompts for ChatGPT, Midjourney, DALL-E, Claude & more. 500+ free templates.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#00ffc4",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
